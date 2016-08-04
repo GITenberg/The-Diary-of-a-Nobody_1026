@@ -1,0 +1,38 @@
+_repo: The-Diary-of-a-Nobody_1026
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Grossmith, Weedon
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '515'
+    url: http://www.gutenberg.org/2009/agents/515
+  - agent_name: Grossmith, George
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '514'
+    url: http://www.gutenberg.org/2009/agents/514
+    wikipedia: http://en.wikipedia.org/wiki/George_Grossmith
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Humor
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Men -- England -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'Middle class -- Fiction'
+- !lcsh 'Suburban life -- Fiction'
+- GITenberg
+title: The Diary of a Nobody
+url: http://www.gutenberg.org/ebooks/1026
